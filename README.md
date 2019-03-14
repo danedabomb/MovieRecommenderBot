@@ -1,5 +1,5 @@
 # MovieRecommenderBot
-Movie recommender chatbot created for CS124 (NLP) at Stanford. Worked with legends Hang Jiang and Richard Kahn.
+Movie recommender chatbot created for CS124 (NLP) at Stanford. Worked with Hang Jiang and Richard Kahn.
 
 How To Run:
 1) Run the repl.py file in your terminal (ex: python repl.py --creative)

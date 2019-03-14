@@ -1,7 +1,7 @@
 # MovieRecommenderBot
 Movie recommender chatbot created for CS124 (NLP) at Stanford University. Worked with Hang Jiang and Richard Kahn.
 
-Assignment 6
+### Assignment 6
 
 How To Run:
 1) Run the repl.py file in your terminal (ex: python repl.py --creative)
